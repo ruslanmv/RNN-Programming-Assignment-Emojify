@@ -1,6 +1,4 @@
-# Emojify
-
-## Coursera - RNN Programming Assignment
+## Coursera - RNN Programming Assignment - Emojify
 
 ### Disclaimer:
 The given solutions in this project are only for reference purpose.
