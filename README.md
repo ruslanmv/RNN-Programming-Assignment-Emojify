@@ -1,7 +1,5 @@
 ## Coursera - RNN Programming Assignment - Emojify
 
-### Disclaimer:
-The given solutions in this project are only for reference purpose.
 
 ### Description of experiment
 
@@ -44,6 +42,9 @@ By the end of this notebook, you'll be able to:
 👆 😎
 
 (^^^ Emoji for "skills")
+### Disclaimer:
+The given solutions in this project are only for reference purpose.
+
 
 ### Acknowledgements
 
